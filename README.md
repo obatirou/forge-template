@@ -6,12 +6,15 @@
 
 ## Custom template
 
+You need to have `yarn` installed
+Run `make`
+
 -   Yarn as package manager
 -   Husky for git hooks
 -   Prettier for formatting
 -   Makefile
--   .env for secrets
--   custom .gitignore
+-   `.env` for secrets
+-   custom `.gitignore`
 
 ## Getting Started
 
