@@ -6,6 +6,8 @@
 
 ## Custom template
 
+With a lot of inspiration from https://github.com/smartcontractkit/foundry-starter-kit
+
 You need to have `yarn` installed
 Run `make`
 
