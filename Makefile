@@ -14,4 +14,4 @@ test :; forge test
 
 snapshot :; forge snapshot
 
-format :; yarn prettier --write src/ test/
+format :; forge fmt
