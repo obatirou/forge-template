@@ -1,2 +1,2 @@
-TestContract:testBar() (gas: 401)
-TestContract:testFoo(uint256) (runs: 256, μ: 3426, ~: 3426)
+TestContract:testBar() (gas: 268)
+TestContract:testFoo(uint256) (runs: 256, μ: 3322, ~: 3322)
