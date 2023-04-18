@@ -2,8 +2,6 @@
 
 **Template repository for getting started quickly with Foundry projects**
 
-![Github Actions](https://github.com/foundry-rs/forge-template/workflows/CI/badge.svg)
-
 ## Custom template
 
 With a lot of inspiration from https://github.com/smartcontractkit/foundry-starter-kit
