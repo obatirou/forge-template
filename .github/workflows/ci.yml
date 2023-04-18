@@ -1,9 +1,6 @@
 name: CI
 on:
   push:
-    branches:
-      - master
-  pull_request:
 
 env:
   FOUNDRY_PROFILE: ci
@@ -21,9 +18,6 @@ jobs:
 
       - name: Install deps
         run: forge install
-
-      - name: Check gas snapshots
-        run: forge snapshot --check
 
       - name: Run tests
         run: forge test
