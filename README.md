@@ -6,15 +6,16 @@
 
 With a lot of inspiration from https://github.com/smartcontractkit/foundry-starter-kit
 
-You need to have `yarn` installed
-Run `make`
-
--   Yarn as package manager
--   Husky for git hooks
--   Prettier for formatting
--   Makefile
--   `.env` for secrets
--   custom `.gitignore`
+You need to have `yarn` installed to use this template.  
+This template includes:
+- Yarn as package manager
+- Husky for git hooks
+- Makefile
+- `.env` for secrets
+- custom `.gitignore`
+- set solc version in foundry.toml
+- set evm_version in foundry.toml
+- to support `PUSH0` evm_version must be set explicitly to `shanghai` (or higher)
 
 ## Getting Started
 
